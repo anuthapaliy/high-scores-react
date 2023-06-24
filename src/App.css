@@ -1,6 +1,12 @@
 .App {
   text-align: center;
 }
+.high-score-box {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
 
 .App-logo {
   height: 40vmin;
